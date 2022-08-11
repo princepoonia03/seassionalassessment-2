@@ -67,3 +67,47 @@ header{
     margin-bottom: 10px;
     margin-right: 10px;
 }
+.post form label{
+    margin-left: 40%;
+
+}
+.post form input{
+    margin-bottom: 3%;
+    margin-left: 10px;
+}
+.btn{
+    margin-left: 50%;
+}
+.btn:hover{
+    color: grey;
+}
+
+.contain{
+    border: 2px solid black;
+    width:33%;
+    margin:65px;
+    margin-left: 35%;
+    padding:10px 7px 14px 39px;
+    background-color:rgba(255, 255, 255, 0.368);
+}
+.form input{
+    display: block;
+    text-align: center;
+    font-size: 15px;
+    width: 254px;
+    padding: 6px;
+    margin: 15px auto;
+    border:2px solid black;
+    border-radius: 20px;
+}
+.contain h1{
+    text-align: center;
+}
+.contain .btn {
+    color:white;
+    text-align: center;
+    margin: 7px 0px 8px 197px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 30px;
+    background-color: black;
+}

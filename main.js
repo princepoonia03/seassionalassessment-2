@@ -11,7 +11,7 @@ xhr.onreadystatechange = () => {
       output += `
         <div class="card">
             <div class="imag">
-            <img src="https://picsum.photos/200/300" alt="">     
+            <img src="https://picsum.photos/200/300/?random=${i}" alt="">     
             </div>
             <div class="body">
                 <p>Person ID=${response[i].id}</p>
